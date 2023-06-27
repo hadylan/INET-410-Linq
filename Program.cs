@@ -47,7 +47,7 @@ namespace LinqExercicePresentation
                             Functions.search(args[1], args[2], int.Parse(args[3]));
                         } else
                         {
-                            throw new NullReferenceException("Please give at least fourth args, ex : constructor(string) model(string) motorPower(integer)");
+                            throw new NullReferenceException("Please give at least three args, ex : constructor(string) model(string) motorPower(integer)");
                         }
                     break;
 
