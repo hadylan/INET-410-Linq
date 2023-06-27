@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YxbxD+6lqtVJSvA0/EeO0JIK/gECMDJLD/eu6F5JS5aW4t08xGq9RGu0LtCGzk58FV8LaIwC/9HtYsMwiIR6eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dylan\\Desktop\\MotorcycleCollection\\MotorcycleCollection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

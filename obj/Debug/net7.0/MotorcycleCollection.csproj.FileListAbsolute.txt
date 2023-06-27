@@ -1,0 +1,17 @@
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\MotorcycleCollection\bin\Debug\net7.0\MotorcycleCollection.exe
+C:\Users\Dylan\Desktop\MotorcycleCollection\bin\Debug\net7.0\MotorcycleCollection.deps.json
+C:\Users\Dylan\Desktop\MotorcycleCollection\bin\Debug\net7.0\MotorcycleCollection.runtimeconfig.json
+C:\Users\Dylan\Desktop\MotorcycleCollection\bin\Debug\net7.0\MotorcycleCollection.dll
+C:\Users\Dylan\Desktop\MotorcycleCollection\bin\Debug\net7.0\MotorcycleCollection.pdb
+C:\Users\Dylan\Desktop\MotorcycleCollection\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.csproj.CopyComplete
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.dll
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\refint\MotorcycleCollection.dll
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.pdb
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\MotorcycleCollection.genruntimeconfig.cache
+C:\Users\Dylan\Desktop\MotorcycleCollection\obj\Debug\net7.0\ref\MotorcycleCollection.dll

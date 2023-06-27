@@ -1,0 +1,66 @@
+{
+    "AllMotorcycles": [
+        [
+            {
+              "Id": 1,
+              "Model": "CBR500R",
+              "Constructor": "Honda",
+              "MotorPower": 35
+            },
+            {
+              "Id": 2,
+              "Model": "Ninja 400",
+              "Constructor": "Kawasaki",
+              "MotorPower": 31
+            },
+            {
+              "Id": 3,
+              "Model": "YZF-R6",
+              "Constructor": "Yamaha",
+              "MotorPower": 91
+            },
+            {
+              "Id": 4,
+              "Model": "Panigale V4",
+              "Constructor": "Ducati",
+              "MotorPower": 157
+            },
+            {
+              "Id": 5,
+              "Model": "GSX-R750",
+              "Constructor": "Suzuki",
+              "MotorPower": 110
+            },
+            {
+              "Id": 6,
+              "Model": "MT-09",
+              "Constructor": "Yamaha",
+              "MotorPower": 87
+            },
+            {
+              "Id": 7,
+              "Model": "Street Triple",
+              "Constructor": "Triumph",
+              "MotorPower": 92
+            },
+            {
+              "Id": 8,
+              "Model": "CBR1000RR",
+              "Constructor": "Honda",
+              "MotorPower": 141
+            },
+            {
+              "Id": 9,
+              "Model": "Monster 821",
+              "Constructor": "Ducati",
+              "MotorPower": 80
+            },
+            {
+              "Id": 10,
+              "Model": "R1250GS",
+              "Constructor": "BMW",
+              "MotorPower": 100
+            }
+          ]
+    ]
+}
